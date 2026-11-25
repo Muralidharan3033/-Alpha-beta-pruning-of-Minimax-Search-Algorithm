@@ -1,6 +1,6 @@
 <h1>ExpNo 7 : Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name: MURALIDHARAN M </h3>
-<h3>Register Number:  212223040120  </h3>
+<h3>Name: KARTHICKKUMAR R </h3>
+<h3>Register Number:  212223040087  </h3>
 
 <H3>Aim:</H3>
 <p>
